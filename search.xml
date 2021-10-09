@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>基于python的opencv图像处理2</title>
+      <link href="/2021/10/09/dirname/test/"/>
+      <url>/2021/10/09/dirname/test/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;暂无&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+            <tag> opencv </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试音乐</title>
       <link href="/2021/10/01/%E6%B5%8B%E8%AF%95%E9%9F%B3%E4%B9%90/index/"/>
       <url>/2021/10/01/%E6%B5%8B%E8%AF%95%E9%9F%B3%E4%B9%90/index/</url>
